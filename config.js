@@ -2,7 +2,7 @@
 // Supabase > Project Settings > API: copy "Project URL" and the "anon public" key.
 // Never put the service_role key here.
 window.APP_CONFIG = {
-  SUPABASE_URL: "PASTE_YOUR_PROJECT_URL",
-  SUPABASE_KEY: "PASTE_YOUR_ANON_PUBLIC_KEY",
+  SUPABASE_URL: "https://dqrasbyqsjqqerslluwx.supabase.co",
+  SUPABASE_KEY: "sb_publishable_v4YH7RjTyAd2-VoOe3sGog_kWHSo5Ee",
   EMAIL_DOMAIN: "mechvactech.com"
 };
